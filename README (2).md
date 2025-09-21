@@ -1,3 +1,6 @@
+Watch Me Build This Lab
+https://www.loom.com/share/54f6a976b7dd414da276363157b83efb
+
 # Active Directory Lab: Resetting a User Password
 
 This README provides step-by-step instructions on how to reset a password in Active Directory.  
